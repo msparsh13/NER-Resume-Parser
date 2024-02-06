@@ -23,7 +23,7 @@ It is Resume Parser made using spacy library using en_core_web_lg model
 ||==README.md
 ```
 
-**NER_PARSER.ipynb :** Its the creation of model
-**ui.py** Streamlit application that utilises model
-**train-data.json** NER Based dataset
+* **NER_PARSER.ipynb :** Its the creation of model
+* **ui.py** Streamlit application that utilises model
+* **train-data.json** NER Based dataset
 
